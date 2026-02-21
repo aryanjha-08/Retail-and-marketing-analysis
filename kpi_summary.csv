@@ -1,0 +1,27 @@
+KPI,Value
+Total_Revenue,383099.45
+Total_Products,15668
+Avg_Revenue_Per_Product,24.45107544038805
+Top_20_Product_Count,3133
+Top_20_Revenue,307486.94
+Top_20_Revenue_Share_%,80.26295521959115
+Inactive_Products_>180_Days,4159
+Inactivity_Rate_%,26.54454940005106
+Active_Product_Rate_%,73.45545059994893
+Avg_Days_Since_Last_Sale,99.91709216236916
+Total_Segments,4
+Total_Products_Segmented,15668
+Low Performing Products_Count,12764
+Low Performing Products_Percentage,81.46540719938729
+Emerging Products_Count,2277
+Emerging Products_Percentage,14.532805718662242
+Top Performing Products_Count,623
+Top Performing Products_Percentage,3.976257339800868
+High Revenue Products_Count,4
+High Revenue Products_Percentage,0.025529742149604292
+Largest_Segment,Low Performing Products
+Largest_Segment_Size,12764
+Largest_Segment_%,81.46540719938729
+Smallest_Segment,High Revenue Products
+Smallest_Segment_Size,4
+Smallest_Segment_%,0.025529742149604292
