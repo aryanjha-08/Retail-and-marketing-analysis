@@ -1,5 +1,3 @@
-# Retail-and-marketing-analysis
-
 # Retail Product Performance & Segmentation Analytics
 
 ## Project Overview
@@ -174,9 +172,9 @@ jupyter notebook
 
 ## Author
 
-Aryan Jha
-Data Analyst
-LinkedIn: linkedin.com/in/aryan-jha-4933a7240
-GitHub: github.com/aryanjha-08
+* Aryan Jha
+* Data Analyst
+* LinkedIn: linkedin.com/in/aryan-jha-4933a7240
+* GitHub: github.com/aryanjha-08
 
 ---
